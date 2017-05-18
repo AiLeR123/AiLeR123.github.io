@@ -1,7 +1,7 @@
 @CHARSET "UTF-8";
-*{
+{
 background-position: center;
  background-size: cover;
-    background-image: url(/img/tecnologia.jpg);
-    min-height: 100%;
-    }
+background-image: url(/img/tecnologia.jpg);
+min-height: 100%;
+}
